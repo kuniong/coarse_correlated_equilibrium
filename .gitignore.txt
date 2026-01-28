@@ -1,0 +1,29 @@
+# LaTeX build artifacts
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.run.xml
+*.bcf
+
+# Editors / OS
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
+*.bak
+
+# Python (if any)
+__pycache__/
+*.pyc
+.venv/
+
+# Dropbox conflict files
+*conflicted copy*
