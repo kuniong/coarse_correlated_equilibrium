@@ -1,4 +1,4 @@
-# Callback-Pool Queueing Model: CE/CCE Information Design
+# Opt-In Queue Regulation via Coarse Correlated Equilibrium Recommendations
 
 This project implements the computational experiments for a callback-pool queueing model with information design, comparing **Correlated Equilibrium (CE)**, **Coarse Correlated Equilibrium (CCE)**, and **Selfish Full-Information (FI)** benchmarks.
 
