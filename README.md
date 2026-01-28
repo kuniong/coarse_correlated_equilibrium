@@ -137,10 +137,9 @@ Open and run `experiments.ipynb`:
 jupyter notebook experiments.ipynb
 ```
 
-The notebook runs three sensitivity experiments:
+The notebook runs two sensitivity experiments:
 1. **Traffic intensity** (ρ = λ/μ): Varies from 0.6 to 0.98
-2. **Service value ratio** (R/C): Varies from 2.0 to 9.0
-3. **Callback intensity** (γ): Varies from 0.05 to 0.80
+2. **Callback intensity** (γ): Varies from 0.05 to 0.80
 
 Each experiment produces 4 plots comparing CE, CCE, and Selfish FI:
 - Welfare
