@@ -123,12 +123,6 @@ print(f"Fixed-point iterations: {len(sol['fixed_point_history'])}")
 pip install numpy matplotlib pulp
 ```
 
-### Optional: Install CBC Solver
-
-For faster LP solving, install the CBC solver:
-- **Windows**: Download from [COIN-OR](https://github.com/coin-or/Cbc/releases)
-- **Mac/Linux**: `brew install cbc` or `apt-get install coinor-cbc`
-
 ## Running Experiments
 
 Open and run `experiments.ipynb`:
